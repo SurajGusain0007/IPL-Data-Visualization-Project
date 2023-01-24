@@ -1,0 +1,567 @@
+Player_Name,DOB,Batting_Hand,Bowling_Skill,Country
+A Ashish Reddy,24-Feb-91,Right_Hand,Right-arm medium,India
+A Chandila,5-Dec-83,Right_Hand,Right-arm offbreak,India
+A Chopra,19-Sep-77,Right_Hand,Right-arm offbreak,India
+A Choudhary,,Right_hand,Left-arm fast-medium,
+A Dananjaya,,Right_Hand,Right-arm offbreak,
+A Flintoff,6-Dec-77,Right_Hand,Right-arm fast-medium,England
+A Hales,,Right_hand,,
+A Joseph,,Right_Hand,Right-arm fast,
+A Kumble,17-Oct-70,Right_Hand,Legbreak googly,India
+A Mishra,24-Nov-82,Right_Hand,Legbreak,India
+A Mithun,25-Oct-89,Right_Hand,Right-arm medium,India
+A Mukund,6-Jan-90,Right_Hand,Legbreak googly,India
+A Nehra,29-Apr-79,Right_Hand,Left-arm medium-fast,India
+A Nel,15-Jul-77,Right_Hand,Right-arm fast-medium,South Africa
+A Roy,,Left_Hand,Slow left-arm orthodox,
+A Singh,21-Jun-81,Right_Hand,Right-arm medium-fast,India
+A Symonds,9-Jun-75,Right_Hand,Right-arm offbreak,Australia
+A Turner,,Right_Hand,,
+A Uniyal,21-Nov-81,Right_Hand,Left-arm medium,India
+A Zampa,31-Mar-92,Right_Hand,Legbreak googly,Australia
+AA Bilakhia,31-May-86,Right_Hand,Right-arm medium,India
+AA Chavan,28-Oct-85,Right_Hand,Slow left-arm orthodox,India
+AA Jhunjhunwala,1-Dec-82,Right_Hand,Right-arm offbreak,India
+AA Kazi,29-Sep-89,Right_Hand,Slow left-arm orthodox,India
+AA Noffke,30-Apr-77,Right_Hand,Right-arm fast-medium,Australia
+AB Agarkar,4-Dec-77,Right_Hand,Right-arm fast,India
+AB Barath,14-Apr-90,Left_Hand,Right-arm offbreak,India
+AB de Villiers,17-Feb-84,Right_Hand,Right-arm medium,South Africa
+AB Dinda,25-Mar-84,Right_Hand,Right-arm medium-fast,India
+AB McDonald,5-Jun-81,Right_Hand,Right-arm fast-medium,Australia
+Abdur Razzak,15-Jun-82,Left_Hand,Slow left-arm orthodox,Bangladesh
+AC Blizzard,27-Jun-84,Left_Hand,Left-arm medium,Australia
+AC Gilchrist,14-Nov-71,Left_Hand,Right-arm offbreak,Australia
+AC Thomas,9-Feb-77,Right_Hand,Right-arm fast-medium,England
+AC Voges,4-Oct-79,Right_Hand,Slow left-arm orthodox,Australia
+AD Mascarenhas,30-Oct-77,Right_Hand,Right-arm fast-medium,England
+AD Mathews,2-Jun-87,Right_Hand,Right-arm fast-medium,Sri Lanka
+AD Nath,10-May-93,Right_Hand,Right-arm medium-fast,India
+AD Russell,29-Apr-88,Right_Hand,Right-arm fast,West Indies
+AF Milne,13-Apr-92,Right_Hand,Right-arm fast,New Zealand
+AG Murtaza,1-Jan-90,Left_Hand,Slow left-arm orthodox,India
+AG Paunikar,18-Apr-88,Right_Hand,NULL,India
+AJ Finch,17-Nov-86,Right_Hand,Slow left-arm orthodox,Australia
+AJ Tye,,Right_hand,Right-arm fast-medium,
+AL Menaria,29-Oct-90,Left_Hand,Slow left-arm orthodox,India
+AM Nayar,8-Oct-83,Left_Hand,Right-arm medium,India
+AM Rahane,6-Jun-88,Right_Hand,Right-arm medium,India
+AM Salvi,20-Oct-81,Right_Hand,Right-arm medium,India
+AN Ahmed,5-Nov-88,Right_Hand,Right-arm medium-fast,India
+AN Ghosh,19-Oct-86,Right_Hand,Right-arm medium,India
+Anand Rajan,17-Apr-87,Right_Hand,Right-arm medium,India
+Anirudh Singh,2-Aug-80,Left_Hand,Right-arm medium,India
+Ankit Sharma,20-Apr-91,Left_Hand,Slow left-arm orthodox,India
+Ankit Soni,,Right_hand,Legbreak,
+Anureet Singh,2-Mar-88,Right_Hand,Right-arm medium,India
+AP Dole,9-Oct-87,Right_Hand,Right-arm medium-fast,India
+AP Majumdar,30-Apr-84,Right_Hand,Legbreak googly,India
+AP Tare,7-Nov-87,Right_Hand,NULL,India
+AR Bawne,,Right_Hand,,
+AR Patel,20-Jan-94,Left_Hand,Slow left-arm orthodox,India
+AS Rajpoot,4-Dec-93,Right_Hand,Right-arm medium,India
+AS Raut,3-Mar-87,Right_Hand,Legbreak googly,India
+AS Yadav,,Right_hand,,
+AT Rayudu,23-Sep-85,Right_Hand,Right-arm offbreak,India
+AUK Pathan,17-Jun-84,Right_Hand,Right-arm medium,India
+AV Wankhade,14-Mar-92,Right_Hand,NULL,India
+Avesh Khan,,Right_Hand,Right-arm fast-medium,
+Azhar Mahmood,28-Feb-75,Right_Hand,Right-arm fast-medium,Pakistan
+B Akhil,7-Oct-77,Right_Hand,Right-arm medium-fast,India
+B Aparajith,8-Jul-94,Right_Hand,Right-arm offbreak,India
+B Chipli,27-Jan-83,Right_Hand,Right-arm medium,India
+B Geeves,13-Jun-82,Right_Hand,Right-arm fast-medium,Australia
+B Kumar,5-Feb-90,Right_Hand,Right-arm medium,India
+B Laughlin,3-Oct-82,Right_Hand,Right-arm fast-medium,Australia
+B Lee,8-Nov-76,Right_Hand,Right-arm fast,Australia
+B Stanlake,,Right_Hand,Right-arm fast,
+B Sumanth,10-May-88,Right_Hand,Right-arm medium-fast,India
+BA Bhatt,13-May-90,Left_Hand,Slow left-arm orthodox,India
+BA Stokes,,Left_Hand,Right-arm fast-medium,
+Basil Thampi,,Right_hand,Right-arm fast,
+BAW Mendis,11-Mar-85,Right_Hand,Right-arm offbreak,Sri Lanka
+BB McCullum,27-Sep-81,Right_Hand,Right-arm medium,New Zealand
+BB Samantray,14-Dec-88,Right_Hand,NULL,India
+BB Sran,10-Dec-92,Left_Hand,Left-arm medium,India
+BCJ Cutting,30-Jan-87,Right_Hand,Right-arm fast-medium,Australia
+BE Hendricks,8-Jun-90,Left_Hand,Left-arm fast-medium,South Africa
+Bipul Sharma,28-Sep-83,Left_Hand,Slow left-arm orthodox,India
+BJ Haddin,23-Oct-77,Right_Hand,NULL,Australia
+BJ Hodge,29-Dec-74,Right_Hand,Right-arm offbreak,Australia
+BJ Rohrer,26-Mar-81,Left_Hand,Right-arm offbreak,Australia
+BMAJ Mendis,15-Jan-83,Left_Hand,Right-arm offbreak,Sri Lanka
+BR Dunk,11-Mar-87,Left_Hand,Right-arm fast,Australia
+BW Hilfenhaus,15-Mar-83,Right_Hand,Right-arm fast,Australia
+C de Grandhomme,,Right_hand,Legbreak,
+C Ganapathy,10-Jun-81,Right_Hand,Right-arm medium,India
+C Ingram,,Left_Hand,Right-arm fast-medium,
+C Madan,15-Oct-82,Right_Hand,NULL,India
+C Munro,11-Mar-87,Left_Hand,Right-arm medium-fast,New Zealand
+C Nanda,29-Mar-79,Right_Hand,Legbreak,India
+CA Ingram,3-Jul-85,Left_Hand,Legbreak,South Africa
+CA Lynn,10-Apr-90,Right_Hand,Slow left-arm orthodox,Australia
+CA Pujara,25-Jan-88,Right_Hand,Legbreak,India
+CH Gayle,21-Sep-79,Left_Hand,Right-arm offbreak,West Indies
+CH Morris,30-Apr-87,Right_Hand,Right-arm fast-medium,South Africa
+CJ Anderson,13-Dec-90,Left_Hand,Left-arm medium-fast,New Zealand
+CJ Ferguson,21-Nov-84,Right_Hand,Right-arm medium,Australia
+CJ Jordan,4-Oct-88,Right_Hand,Right-arm fast-medium,England
+CJ McKay,20-Feb-83,Right_Hand,Right-arm fast-medium,Australia
+CK Kapugedera,24-Feb-87,Right_Hand,Right-arm medium,Sri Lanka
+CK Langeveldt,17-Dec-74,Right_Hand,Right-arm fast-medium,England
+CL White,18-Aug-83,Right_Hand,Legbreak googly,Australia
+CM Gautam,8-Mar-86,Right_Hand,NULL,India
+CR Brathwaite,18-Jul-88,Right_Hand,Right-arm fast-medium,West Indies
+CR Woakes,,Right_hand,Right-arm fast-medium,
+CRD Fernando,19-Jul-79,Right_Hand,Right-arm fast-medium,Sri Lanka
+D du Preez,8-Nov-81,Right_Hand,Right-arm fast-medium,South Africa
+D Kalyankrishna,16-Dec-83,Right_Hand,Right-arm medium-fast,India
+D Salunkhe,12-Nov-82,Right_Hand,Legbreak,India
+D Shorey,,Right_hand,,
+D Short,,Left_Hand,Slow left-arm orthodox,
+D Wiese,18-May-85,Right_Hand,Right-arm medium-fast,South Africa
+D Willey,,Right_Hand,Left-arm fast-medium,
+DA Miller,10-Jun-89,Left_Hand,Right-arm offbreak,South Africa
+DA Warner,27-Oct-86,Left_Hand,Legbreak,Australia
+DAJ Bracewell,28-Sep-90,Right_Hand,Right-arm fast-medium,New Zealand
+DB Das,22-Sep-86,Right_Hand,Legbreak googly,India
+DB Ravi Teja,5-Sep-87,Right_Hand,Legbreak googly,India
+DE Bollinger,24-Jul-81,Left_Hand,Left-arm fast-medium,Australia
+DH Yagnik,22-Jun-83,Left_Hand,NULL,India
+DJ Bravo,7-Oct-83,Right_Hand,Right-arm medium-fast,West Indies
+DJ Harris,31-Dec-79,Right_Hand,Right-arm medium,Australia
+DJ Hooda,19-Apr-95,Right_Hand,Right-arm offbreak,India
+DJ Hussey,15-Jul-77,Right_Hand,Right-arm offbreak,Australia
+DJ Jacobs,4-Nov-82,Right_Hand,Right-arm medium,South Africa
+DJ Muthuswami,9-Mar-81,Right_Hand,Right-arm medium,India
+DJ Thornely,1-Oct-78,Right_Hand,Right-arm medium,Australia
+DJG Sammy,20-Dec-83,Right_Hand,Right-arm medium-fast,West Indies
+DL Chahar,7-Aug-92,Right_Hand,Right-arm medium,India
+DL Vettori,27-Jan-79,Left_Hand,Slow left-arm orthodox,New Zealand
+DM Bravo,,Left_Hand,,
+DNT Zoysa,13-May-78,Left_Hand,Left-arm fast-medium,Sri Lanka
+DP Nannes,16-May-76,Right_Hand,Left-arm fast,Australia
+DP Vijaykumar,20-Oct-86,Right_Hand,Right-arm medium,India
+DPMD Jayawardene,27-May-77,Right_Hand,Right-arm medium,Sri Lanka
+DR Martyn,21-Oct-71,Right_Hand,Right-arm medium,Australia
+DR Smith,12-Apr-83,Right_Hand,Right-arm medium,West Indies
+DS Kulkarni,10-Dec-88,Right_Hand,Right-arm medium,India
+DS Lehmann,5-Feb-70,Left_Hand,Slow left-arm orthodox,Australia
+DT Christian,4-May-83,Right_Hand,Right-arm fast-medium,Australia
+DT Patil,6-Dec-84,Right_Hand,NULL,India
+DW Steyn,27-Jun-83,Right_Hand,Right-arm fast,South Africa
+E Lewis,,Left_Hand,,
+EJG Morgan,10-Sep-86,Left_Hand,Right-arm medium,England
+ER Dwivedi,22-Jul-88,Right_Hand,NULL,India
+F Behardien,9-Oct-83,Right_Hand,Right-arm fast-medium,South Africa
+F du Plessis,13-Jul-84,Right_Hand,Legbreak,South Africa
+FH Edwards,6-Feb-82,Right_Hand,Right-arm fast,West Indies
+FY Fazal,7-Sep-85,Left_Hand,Right-arm medium,India
+G Gambhir,14-Oct-81,Left_Hand,Legbreak,India
+Gagandeep Singh,3-Oct-81,Right_Hand,Right-arm medium-fast,India
+GB Hogg,6-Feb-71,Left_Hand,Slow left-arm chinaman,Australia
+GC Smith,1-Feb-81,Left_Hand,Right-arm offbreak,South Africa
+GD McGrath,9-Feb-70,Right_Hand,Right-arm fast-medium,Australia
+GH Vihari,13-Oct-93,Right_Hand,Right-arm offbreak,India
+GJ Bailey,7-Sep-82,Right_Hand,Right-arm medium,Australia
+GJ Maxwell,14-Oct-88,Right_Hand,Right-arm offbreak,Australia
+GR Napier,6-Jan-80,Right_Hand,Right-arm medium,England
+GS Sandhu,14-Jun-93,Left_Hand,Right-arm fast-medium,Australia
+Gurkeerat Singh,29-Jun-90,Right_Hand,Right-arm offbreak,India
+H Brar,,Left_Hand,Slow left-arm orthodox,
+H Das,10-Dec-86,Right_Hand,NULL,India
+H Gurney,,Right_Hand,Right-arm fast-medium,
+H Klaasen,,Right_hand,,
+H Vihari,,Right_hand,Right-arm offbreak,
+H Viljoen,,Right_hand,Right-arm fast,
+Harbhajan Singh,3-Jul-80,Right_Hand,Right-arm offbreak,India
+Harmeet Singh,7-Sep-92,Left_Hand,Slow left-arm orthodox,India
+Harmeet Singh (2),,Right_Hand,Right-arm fast-medium,
+Harpreet Singh,11-Aug-91,Left_Hand,Right-arm medium,India
+HH Gibbs,23-Feb-74,Right_Hand,Right-arm bowler,South Africa
+HH Pandya,11-Oct-93,Right_Hand,Right-arm medium-fast,India
+HM Amla,31-Mar-83,Right_Hand,Right-arm offbreak,South Africa
+HV Patel,23-Nov-90,Right_Hand,Right-arm medium,India
+I Malhotra,23-May-84,Right_Hand,Right-arm medium-fast,India
+I Sharma,2-Sep-88,Right_Hand,Right-arm fast-medium,India
+I Sodhi,,Right_hand,Legbreak googly,
+IC Pandey,15-Aug-89,Right_Hand,Right-arm medium,India
+IK Pathan,27-Oct-84,Left_Hand,Left-arm medium-fast,India
+Imran Tahir,27-Mar-79,Right_Hand,Legbreak googly,India
+Iqbal Abdulla,2-Dec-89,Left_Hand,Slow left-arm orthodox,India
+IR Jaggi,27-Jan-89,Right_Hand,Legbreak googly,India
+Ishan Kishan,18-Jul-98,Left_Hand,NULL,India
+J Archer,,Right_hand,Right-arm fast,
+J Arunkumar,18-Jan-75,Right_Hand,Right-arm offbreak,India
+J Bairstow,,Right_hand,,
+J Behrendorff,,Right_Hand,Left-arm fast-medium,
+J Botha,2-May-82,Right_Hand,Right-arm offbreak,South Africa
+J Dala,,,Right-arm Medium,
+J Denly,,Right_hand,,
+J Searles,,Right_hand,Right-arm fast-medium,
+J Suchith,16-Jan-94,Left_Hand,Slow left-arm orthodox,India
+J Syed Mohammad,3-Jun-83,Left_Hand,Slow left-arm orthodox,India
+J Theron,24-Jul-85,Right_Hand,Right-arm medium-fast,South Africa
+J Yadav,22-Jan-90,Right_Hand,Right-arm offbreak,India
+JA Morkel,10-Jun-81,Left_Hand,Right-arm medium-fast,South Africa
+Jaskaran Singh,4-Sep-89,Right_Hand,Right-arm medium,India
+JC Buttler,8-Sep-90,Right_Hand,NULL,England
+JD Ryder,6-Aug-84,Left_Hand,Right-arm medium,New Zealand
+JD Unadkat,18-Oct-91,Right_Hand,Left-arm medium,India
+JDP Oram,28-Jul-78,Left_Hand,Right-arm fast-medium,New Zealand
+JDS Neesham,17-Sep-90,Left_Hand,Right-arm medium,New Zealand
+JE Taylor,22-Jun-84,Right_Hand,Right-arm fast,New Zealand
+JEC Franklin,7-Nov-80,Left_Hand,Left-arm medium,New Zealand
+JH Kallis,16-Oct-75,Right_Hand,Right-arm fast-medium,South Africa
+JJ Bumrah,6-Dec-93,Right_Hand,Right-arm medium,India
+JJ Roy,,Right_hand,,
+JJ van der Wath,10-Jan-78,Right_Hand,Right-arm medium-fast,South Africa
+JM Kemp,2-Oct-77,Right_Hand,Right-arm fast-medium,South Africa
+JO Holder,5-Nov-91,Right_Hand,Right-arm medium-fast,West Indies
+Joginder Sharma,23-Oct-83,Right_Hand,Right-arm fast-medium,India
+JP Duminy,14-Apr-84,Left_Hand,Right-arm offbreak,South Africa
+JP Faulkner,29-Apr-90,Right_Hand,Left-arm fast-medium,Australia
+JR Hopes,24-Oct-78,Right_Hand,Right-arm medium,Australia
+JW Hastings,4-Nov-85,Right_Hand,Right-arm fast-medium,Australia
+K Ahmed,,Right_hand,Left-arm fast-medium,
+K Goel,24-Dec-86,Left_Hand,Right-arm offbreak,India
+K Gowtham,,Right_hand,Right-arm offbreak,
+K Khejroliya,,Right_Hand,Left-arm fast-medium,
+K Paul,,Right_hand,Right-arm fast-medium,
+K Rabada,,Left_Hand,Right-arm fast,
+K Santokie,20-Dec-84,Left_Hand,Left-arm medium,West Indies
+K Upadhyay,18-Jun-86,Right_Hand,Right-arm medium,India
+KA Pollard,12-May-87,Right_Hand,Right-arm medium-fast,West Indies
+KAJ Roach,30-Jun-88,Right_Hand,Right-arm fast,West Indies
+Kamran Akmal,13-Jan-82,Right_Hand,NULL,Pakistan
+Kamran Khan,10-Mar-91,Left_Hand,Left-arm medium-fast,India
+Karanveer Singh,8-Nov-87,Right_Hand,Legbreak googly,India
+KB Arun Karthik,15-Feb-86,Right_Hand,Legbreak googly,India
+KC Cariappa,13-Apr-94,Right_Hand,Legbreak,India
+KC Sangakkara,27-Oct-77,Left_Hand,Right-arm offbreak,Sri Lanka
+KD Karthik,1-Jun-85,Right_Hand,NULL,India
+KH Devdhar,14-Dec-89,Right_Hand,NULL,India
+KH Pandya,24-Mar-91,Left_Hand,Slow left-arm orthodox,India
+KJ Abbott,18-Jun-87,Right_Hand,Right-arm fast-medium,South Africa
+KK Cooper,16-Feb-89,Right_Hand,Right-arm medium,West Indies
+KK Nair,6-Dec-91,Right_Hand,Right-arm offbreak,India
+KL Rahul,18-Apr-92,Right_Hand,NULL,India
+KM Asif,,Right_Hand,Right-arm medium,
+KM Jadhav,26-Mar-85,Right_Hand,Right-arm offbreak,India
+KMDN Kulasekara,22-Jul-82,Right_Hand,Right-arm fast-medium,Sri Lanka
+KP Appanna,20-Dec-88,Right_Hand,Slow left-arm orthodox,India
+KP Pietersen,27-Jun-80,Right_Hand,Right-arm offbreak,South Africa
+KS Williamson,8-Aug-90,Right_Hand,Right-arm offbreak,New Zealand
+Kuldeep Yadav,14-Dec-94,Left_Hand,Slow left-arm chinaman,India
+KV Sharma,23-Oct-87,Left_Hand,Legbreak googly,India
+KW Richardson,12-Feb-91,Right_Hand,Right-arm fast-medium,Australia
+L Ablish,3-Dec-82,Right_Hand,Right-arm medium-fast,India
+L Balaji,27-Sep-81,Right_Hand,Right-arm medium-fast,India
+L Ferguson,,Right_Hand,Right-arm fast,
+L Livingstone,,Right_hand,Right-arm offbreak,
+L Ngidi,,Right_Hand,Slow left-arm orthodox,
+L Plunkett,,Right_hand,Right-arm fast,
+L Ronchi,23-Apr-81,Right_Hand,Right-arm fast,Australia
+LA Carseldine,17-Nov-75,Left_Hand,Legbreak,Australia
+LA Pomersbach,28-Sep-84,Left_Hand,Right-arm medium,Australia
+LH Ferguson,,Right_Hand,Right-arm fast-medium,
+LJ Wright,7-Mar-85,Right_Hand,Right-arm medium-fast,England
+LMP Simmons,25-Jan-85,Right_Hand,Right-arm medium-fast,West Indies
+LPC Silva,14-Dec-79,Right_Hand,Legbreak,Sri Lanka
+LR Shukla,6-May-81,Right_Hand,Right-arm medium,India
+LRPL Taylor,8-Mar-84,Right_Hand,Right-arm offbreak,New Zealand
+M Ali,,Left_Hand,Right-arm offbreak,
+M Ashwin,8-Sep-90,Right_Hand,Legbreak googly,India
+M de Lange,13-Oct-90,Right_Hand,Right-arm fast,South Africa
+M Kaif,1-Dec-80,Right_Hand,Right-arm offbreak,India
+M Kartik,11-Sep-76,Left_Hand,Slow left-arm orthodox,India
+M Klinger,4-Jul-80,Right_Hand,NULL,Australia
+M Lomror,,Left_Hand,Slow left-arm orthodox,
+M Manhas,12-Oct-79,Right_Hand,Right-arm offbreak,India
+M Markande,,Right_hand,Legbreak googly,
+M Morkel,6-Oct-84,Left_Hand,Right-arm fast,South Africa
+M Muralitharan,17-Apr-72,Right_Hand,Right-arm offbreak,Sri Lanka
+M Ntini,6-Jul-77,Right_Hand,Right-arm fast,South Africa
+M Rawat,25-Oct-85,Right_Hand,NULL,India
+M Santner,,Left_Hand,Slow left-arm orthodox,
+M Ur Rahman,,Right_hand,Right-arm offbreak,
+M Vijay,1-Apr-84,Right_Hand,Right-arm offbreak,India
+M Vohra,18-Jul-93,Right_Hand,Right-arm medium,India
+M Wood,,Right_hand,Right-arm fast,
+MA Agarwal,16-Feb-91,Right_Hand,NULL,India
+MA Khote,22-Apr-80,Right_Hand,Right-arm medium,India
+MA Starc,30-Jan-90,Left_Hand,Left-arm fast,Australia
+Mandeep Singh,18-Dec-91,Right_Hand,Right-arm medium,India
+Mashrafe Mortaza,5-Oct-83,Right_Hand,Right-arm fast-medium,Bangladesh
+MB Parmar,12-Apr-88,Right_Hand,Right-arm offbreak,India
+MC Henriques,1-Feb-87,Right_Hand,Right-arm fast-medium,Australia
+MC Juneja,12-Sep-90,Right_Hand,Right-arm offbreak,India
+MD Mishra,9-Feb-84,Right_Hand,Right-arm offbreak,India
+MDKJ Perera,17-Aug-90,Left_Hand,NULL,Sri Lanka
+MEK Hussey,27-May-75,Left_Hand,Right-arm medium,Australia
+MF Maharoof,7-Sep-84,Right_Hand,Right-arm fast-medium,India
+MG Johnson,2-Nov-81,Left_Hand,Left-arm fast,Australia
+MG Neser,29-Mar-90,Right_Hand,Right-arm medium,Australia
+Misbah-ul-Haq,28-May-74,Right_Hand,Legbreak,Pakistan
+MJ Clarke,2-Apr-81,Right_Hand,Slow left-arm orthodox,Australia
+MJ Guptill,30-Sep-86,Right_Hand,Right-arm offbreak,New Zealand
+MJ Henry,,Right_Hand,Right-arm fast,
+MJ Lumb,12-Feb-80,Left_Hand,Right-arm medium,England
+MJ McClenaghan,11-Jun-86,Left_Hand,Left-arm fast-medium,New Zealand
+MK Pandey,10-Sep-89,Right_Hand,Right-arm medium,India
+MK Tiwary,14-Nov-85,Right_Hand,Legbreak googly,India
+ML Hayden,29-Oct-71,Left_Hand,Right-arm medium,Australia
+MM Patel,12-Jul-83,Right_Hand,Right-arm medium-fast,India
+MM Sharma,18-Sep-88,Right_Hand,Right-arm medium,India
+MN Samuels,5-Feb-81,Right_Hand,Right-arm offbreak,West Indies
+MN van Wyk,20-Mar-79,Right_Hand,Slow left-arm orthodox,South Africa
+Mohammad Ashraful,7-Jul-84,Right_Hand,Right-arm offbreak,Bangladesh
+Mohammad Asif,20-Dec-82,Left_Hand,Right-arm fast-medium,Pakistan
+Mohammad Hafeez,17-Oct-80,Right_Hand,Right-arm offbreak,Pakistan
+Mohammad Nabi,,Right_hand,Right-arm offbreak,
+Mohammed Shami,3-Sep-90,Right_Hand,Right-arm fast-medium,India
+Mohammed Siraj,,Right_hand,Right-arm fast,
+MP Stoinis,16-Aug-89,Right_Hand,Right-arm medium,Australia
+MR Marsh,20-Oct-91,Right_Hand,Right-arm medium,Australia
+MS Bisla,27-Dec-84,Right_Hand,NULL,India
+MS Dhoni,7-Jul-81,Right_Hand,Right-arm medium,India
+MS Gony,4-Jan-84,Right_Hand,Right-arm medium,India
+MS Wade,26-Dec-87,Left_Hand,Right-arm medium,Australia
+Mustafizur Rahman,6-Sep-95,Left_Hand,Left-arm fast-medium,Bangladesh
+MV Boucher,3-Dec-76,Right_Hand,Right-arm medium,South Africa
+N Naik,,Right_hand,,
+N Pooran,,Left_Hand,,
+N Rana,27-Dec-93,Left_Hand,Right-arm offbreak,India
+N Saini,28-Oct-88,Right_Hand,Right-arm fast,India
+NB Singh,,Right_Hand,Right-arm fast,
+ND Doshi,6-Oct-78,Right_Hand,Slow left-arm orthodox,India
+Niraj Patel,,Left_Hand,,
+NJ Maddinson,21-Dec-91,Left_Hand,Slow left-arm orthodox,Australia
+NJ Rimmington,11-Nov-82,Right_Hand,Right-arm fast-medium,Australia
+NK Patel,26-Mar-81,Left_Hand,NULL,India
+NL McCullum,1-Sep-80,Right_Hand,Right-arm offbreak,New Zealand
+NLTC Perera,3-Apr-89,Left_Hand,Right-arm medium-fast,Sri Lanka
+NM Coulter-Nile,11-Oct-87,Right_Hand,Right-arm fast,Australia
+NS Naik,9-Nov-94,Right_Hand,NULL,India
+NV Ojha,20-Jul-83,Right_Hand,NULL,India
+O Thomas,,Right_Hand,Right-arm fast,
+OA Shah,22-Oct-78,Right_Hand,Right-arm offbreak,England
+P Amarnath,1-Jun-82,Right_Hand,Right-arm medium,India
+P Awana,19-Jul-86,Right_Hand,Right-arm medium,India
+P Chopra,,Right_hand,,
+P Dharmani,27-Sep-74,Right_Hand,NULL,India
+P Dogra,19-Nov-84,Right_Hand,Legbreak,India
+P Krishna,,Right_hand,Right-arm fast,
+P Kumar,2-Oct-86,Right_Hand,Right-arm medium,India
+P Negi,6-Jan-93,Left_Hand,Slow left-arm orthodox,India
+P Parameswaran,30-May-85,Right_Hand,Left-arm medium,India
+P Prasanth,22-May-85,Left_Hand,Slow left-arm orthodox,India
+P R Barman,,Right_hand,Legbreak,
+P Raj,,Right_Hand,Left-arm medium,
+P Sahu,21-Aug-85,Right_Hand,Legbreak googly,India
+P Shaw,,Right_hand,,
+P Suyal,15-Oct-89,Right_Hand,Left-arm medium,India
+PA Patel,9-Mar-85,Left_Hand,NULL,India
+PA Reddy,11-Feb-91,Right_Hand,Legbreak,India
+Pankaj Singh,6-May-85,Right_Hand,Right-arm medium-fast,India
+Parvez Rasool,13-Feb-89,Right_Hand,Right-arm offbreak,India
+PC Valthaty,7-Dec-83,Right_Hand,Right-arm medium,India
+PD Collingwood,26-May-76,Right_Hand,Right-arm medium,England
+PJ Cummins,8-May-93,Right_Hand,Right-arm fast,Australia
+PJ Sangwan,5-Nov-90,Right_Hand,Left-arm medium,India
+PM Sarvesh Kumar,26-Apr-89,Right_Hand,Right-arm medium,India
+PP Chawla,24-Dec-88,Left_Hand,Legbreak,India
+PP Ojha,5-Sep-86,Left_Hand,Slow left-arm orthodox,India
+PR Shah,3-Nov-87,Right_Hand,NULL,India
+PSP Handscomb,26-Apr-91,Right_Hand,NULL,Australia
+PV Tambe,8-Oct-71,Right_Hand,Legbreak,India
+Q de Kock,17-Dec-92,Left_Hand,NULL,South Africa
+R Ashwin,17-Sep-86,Right_Hand,Right-arm offbreak,India
+R Bhatia,22-Oct-79,Right_Hand,Right-arm medium-fast,India
+R Bhui,,Right_hand,,
+R Bishnoi,8-Oct-87,Right_Hand,Right-arm medium-fast,India
+R Dhawan,19-Feb-90,Right_Hand,Right-arm medium-fast,India
+R Dravid,11-Jan-73,Right_Hand,Right-arm offbreak,India
+R McLaren,9-Feb-83,Left_Hand,Right-arm medium-fast,South Africa
+R Ninan,19-Nov-85,Right_Hand,Right-arm offbreak,India
+R Parag,,Right_hand,Legbreak,
+R Rampaul,15-Oct-84,Left_Hand,Right-arm fast-medium,West Indies
+R Salam,,Right_Hand,Right-arm Fast,
+R Sathish,14-Jan-81,Right_Hand,Right-arm medium,India
+R Sharma,30-Apr-87,Right_Hand,Right-arm offbreak,India
+R Shukla,28-Aug-90,Right_Hand,Right-arm medium,India
+R Singh,,Right_hand,,
+R Tewatia,20-May-93,Left_Hand,Legbreak,India
+R Vinay Kumar,12-Feb-84,Right_Hand,Right-arm medium,India
+RA Jadeja,6-Dec-88,Left_Hand,Slow left-arm orthodox,India
+RA Shaikh,12-Jun-85,Left_Hand,Left-arm medium,India
+RA Tripathi,,Right_hand,Right-arm medium,
+Rashid Khan,,Right_hand,Legbreak googly,
+RD Chahar,,Right_hand,Legbreak googly,
+RE Levi,14-Jan-88,Right_Hand,Right-arm medium,South Africa
+RE van der Merwe,31-Dec-84,Right_Hand,Slow left-arm orthodox,South Africa
+RG More,2-Feb-92,Right_Hand,Right-arm medium,India
+RG Sharma,30-Apr-87,Right_Hand,Right-arm offbreak,India
+RJ Harris,11-Oct-79,Right_Hand,Right-arm fast,Australia
+RJ Peterson,4-Aug-79,Left_Hand,Slow left-arm orthodox,South Africa
+RJ Quiney,20-Aug-82,Left_Hand,Right-arm medium,Australia
+RN ten Doeschate,30-Jun-80,Right_Hand,Right-arm medium-fast,Netherlands
+RP Singh,6-Dec-85,Right_Hand,Left-arm fast-medium,India
+RR Bhatkal,1-Sep-85,Right_Hand,Right-arm medium,India
+RR Bose,27-Feb-79,Right_Hand,Right-arm fast-medium,India
+RR Pant,4-Oct-97,Left_Hand,NULL,India
+RR Powar,20-May-78,Right_Hand,Right-arm offbreak,India
+RR Raje,3-Sep-86,Right_Hand,Right-arm fast-medium,India
+RR Rossouw,9-Oct-89,Left_Hand,Right-arm offbreak,South Africa
+RR Sarwan,23-Jun-80,Right_Hand,Legbreak,West Indies
+RS Bopara,4-May-85,Right_Hand,Right-arm medium,England
+RS Gavaskar,20-Feb-76,Left_Hand,Slow left-arm orthodox,India
+RS Sodhi,18-Oct-80,Right_Hand,Right-arm medium,India
+RT Ponting,19-Dec-74,Right_Hand,Right-arm medium,Australia
+RV Gomez,16-Oct-85,Right_Hand,Right-arm medium,India
+RV Pawar,6-Sep-79,Left_Hand,Slow left-arm orthodox,India
+RV Uthappa,11-Nov-85,Right_Hand,Right-arm medium,India
+RW Price,12-Jun-76,Right_Hand,Slow left-arm orthodox,Zimbabwea
+S Anirudha,14-Apr-87,Right_Hand,NULL,India
+S Aravind,8-Apr-84,Left_Hand,Left-arm medium-fast,India
+S Badree,9-Mar-81,Right_Hand,Legbreak,West Indies
+S Badrinath,30-Aug-80,Right_Hand,Right-arm offbreak,India
+S Chanderpaul,16-Aug-74,Left_Hand,Legbreak,West Indies
+S Curran,,Left_Hand,Left-arm medium-fast,
+S Dhawan,5-Dec-85,Left_Hand,Right-arm offbreak,India
+S Dube,,Left_Hand,Right-arm fast-medium,
+S Gill,,Right_hand,,
+S Gopal,4-Sep-93,Right_Hand,Legbreak,India
+S Hetmyer,,Left_Hand,,
+S Kaul,19-May-90,Right_Hand,Right-arm medium,India
+S Kaushik,7-Sep-95,Right_Hand,Slow left-arm chinaman,India
+S Kuggeleijn,,Right_Hand,Right-arm fast,
+S Ladda,10-Jul-86,Right_Hand,Legbreak,India
+S Lamichhane,,Right_hand,Legbreak googly,
+S Mavi,,Right_hand,Right-arm fast-medium,
+S Midhun,,,Legbreak,
+S Nadeem,12-Aug-89,Right_Hand,Slow left-arm orthodox,India
+S Narwal,16-Apr-82,Left_Hand,Right-arm medium,India
+S Rana,18-Sep-84,Right_Hand,Right-arm medium-fast,India
+S Randiv,30-Jan-85,Right_Hand,Right-arm offbreak,Sri Lanka
+S Rutherford,,Left_Hand,Right-arm fast-medium,
+S Sharma,,Right_Hand,Right-arm fast-medium,
+S Singh,,Right_hand,,
+S Sohal,10-Nov-87,Right_Hand,Legbreak,India
+S Sreesanth,6-Feb-83,Right_Hand,Right-arm fast-medium,India
+S Sriram,21-Feb-76,Left_Hand,Slow left-arm orthodox,India
+S Tyagi,17-Sep-87,Right_Hand,Right-arm medium,India
+S Vidyut,3-Dec-81,Left_Hand,Slow left-arm orthodox,India
+S Warrier,,Right_Hand,Right-arm fast-medium,
+SA Abbott,29-Feb-92,Right_Hand,Right-arm fast-medium,New Zealand
+SA Asnodkar,29-Mar-84,Right_Hand,Right-arm offbreak,India
+SA Yadav,14-Sep-90,Right_Hand,Right-arm offbreak,India
+Sachin Baby,18-Dec-88,Left_Hand,Right-arm offbreak,India
+Salman Butt,7-Oct-84,Left_Hand,Right-arm offbreak,Pakistan
+Sandeep Sharma,18-May-93,Right_Hand,Right-arm medium,India
+SB Bangar,11-Oct-72,Right_Hand,Right-arm medium-fast,India
+SB Jakati,27-Nov-80,Left_Hand,Slow left-arm orthodox,India
+SB Joshi,6-Jun-70,Left_Hand,Slow left-arm orthodox,India
+SB Styris,10-Jul-75,Right_Hand,Right-arm medium,New Zealand
+SB Wagh,9-Oct-88,Left_Hand,Left-arm medium-fast,India
+SC Ganguly,8-Jul-72,Left_Hand,Right-arm medium,India
+SD Chitnis,6-May-87,Right_Hand,Right-arm offbreak,India
+SD Lad,,Right_hand,,
+SE Bond,7-Jun-75,Right_Hand,Right-arm fast,New Zealand
+SE Marsh,9-Jul-83,Left_Hand,Slow left-arm orthodox,Australia
+Shahid Afridi,1-Mar-80,Right_Hand,Legbreak googly,Pakistan
+Shakib Al Hasan,24-Mar-87,Left_Hand,Slow left-arm orthodox,Bangladesh
+Shivam Sharma,9-Sep-93,Right_Hand,Right-arm offbreak,India
+Shoaib Ahmed,17-Aug-90,Right_Hand,Right-arm fast-medium,Pakistan
+Shoaib Akhtar,13-Aug-75,Right_Hand,Right-arm fast,Pakistan
+Shoaib Malik,1-Feb-82,Right_Hand,Right-arm offbreak,Pakistan
+SJ Srivastava,22-Sep-81,Right_Hand,Left-arm fast-medium,India
+SK Raina,27-Nov-86,Left_Hand,Right-arm offbreak,India
+SK Trivedi,4-Sep-82,Right_Hand,Right-arm medium,India
+SK Warne,13-Sep-69,Right_Hand,Legbreak googly,Australia
+SL Malinga,28-Aug-83,Right_Hand,Right-arm fast,Sri Lanka
+SM Boland,11-Apr-89,Right_Hand,Right-arm fast-medium,Australia
+SM Harwood,1-Mar-74,Right_Hand,Right-arm fast-medium,Australia
+SM Katich,21-Aug-75,Left_Hand,Slow left-arm chinaman,Australia
+SM Pollock,16-Jul-73,Right_Hand,Right-arm fast-medium,South Africa
+SMSM Senanayake,9-Feb-85,Right_Hand,Right-arm offbreak,Sri Lanka
+SN Khan,27-Oct-97,Right_Hand,Legbreak,India
+SN Thakur,16-Oct-91,Right_Hand,Right-arm medium,India
+Sohail Tanvir,12-Dec-84,Left_Hand,Left-arm medium-fast,Pakistan
+SP Fleming,1-Apr-73,Left_Hand,NULL,New Zealand
+SP Goswami,18-May-89,Left_Hand,NULL,India
+SP Jackson,,Right_hand,,
+SP Narine,26-May-88,Left_Hand,Right-arm offbreak,West Indies
+SPD Smith,2-Jun-89,Right_Hand,Legbreak googly,India
+SR Tendulkar,24-Apr-73,Right_Hand,Right-arm offbreak,India
+SR Watson,17-Jun-81,Right_Hand,Right-arm fast-medium,Australia
+SS Agarwal,,Right_Hand,Legbreak googly,
+SS Iyer,6-Dec-94,Right_Hand,Legbreak googly,India
+SS Mundhe,27-Oct-88,Right_Hand,Right-arm medium,India
+SS Sarkar,15-Dec-84,Right_Hand,Right-arm medium,India
+SS Shaikh,18-Jan-87,Right_Hand,Right-arm medium,India
+SS Tiwary,30-Dec-89,Left_Hand,NULL,India
+ST Jayasuriya,30-Jun-69,Left_Hand,Slow left-arm orthodox,Sri Lanka
+STR Binny,3-Jun-84,Right_Hand,Right-arm medium,India
+Sunny Gupta,27-Sep-88,Right_Hand,Right-arm offbreak,India
+Sunny Singh,18-Dec-86,Right_Hand,Right-arm medium-fast,India
+SV Samson,11-Nov-94,Right_Hand,NULL,India
+SW Billings,15-Jun-91,Right_Hand,NULL,England
+SW Tait,22-Feb-83,Right_Hand,Right-arm fast,Australia
+Swapnil Singh,22-Jan-91,Right_Hand,Slow left-arm orthodox,India
+T Curran,,Right_hand,Right-arm fast-medium,
+T Henderson,1-Aug-74,Right_Hand,Right-arm fast-medium,South Africa
+T Kohli,17-Dec-88,Right_Hand,Right-arm medium,India
+T Mishra,22-Dec-86,Right_Hand,Right-arm fast-medium,India
+T Natarajan,,Left_Hand,Left-arm fast-medium,
+T Shamsi,18-Feb-90,Right_Hand,Slow left-arm chinaman,South Africa
+T Taibu,14-May-83,Right_Hand,Right-arm medium,Zimbabwea
+T Thushara,1-Mar-81,Left_Hand,Left-arm fast-medium,Sri Lanka
+TA Boult,22-Jul-89,Right_Hand,Left-arm fast-medium,New Zealand
+TD Paine,8-Dec-84,Right_Hand,Right-arm medium,Australia
+Tejas Baroka,,,Legbreak googly,
+TG Southee,11-Dec-88,Right_Hand,Right-arm medium-fast,New Zealand
+TL Suman,15-Dec-83,Right_Hand,Right-arm offbreak,India
+TM Dilshan,14-Oct-76,Right_Hand,Right-arm offbreak,Sri Lanka
+TM Head,29-Dec-93,Left_Hand,Right-arm offbreak,Australia
+TM Srivastava,7-Nov-89,Left_Hand,Right-arm medium,India
+TP Sudhindra,24-Apr-84,Left_Hand,Right-arm fast,India
+TR Birt,9-Dec-81,Left_Hand,Right-arm medium,Australia
+TS Mills,,Right_hand,Left-arm fast,
+U Kaul,2-Dec-87,Left_Hand,NULL,India
+UA Birla,17-Nov-89,Right_Hand,Right-arm medium,India
+UBT Chand,26-Mar-93,Right_Hand,Right-arm offbreak,India
+Umar Gul,14-Apr-84,Right_Hand,Right-arm fast-medium,Pakistan
+UT Khawaja,18-Dec-86,Left_Hand,Right-arm medium,Australia
+UT Yadav,25-Oct-87,Right_Hand,Right-arm fast-medium,India
+V Chakravarthy,,Right_Hand,Legbreak,
+V Kohli,5-Nov-88,Right_Hand,Right-arm medium,India
+V Pratap Singh,3-May-92,Right_Hand,Right-arm medium,India
+V Sehwag,20-Oct-78,Right_Hand,Right-arm offbreak,India
+V Shankar,26-Jan-91,Right_Hand,Right-arm medium,India
+VH Zol,23-Nov-94,Left_Hand,Right-arm offbreak,India
+Vishnu Vinod,,Right_hand,,
+VR Aaron,29-Oct-89,Right_Hand,Right-arm fast,India
+VRV Singh,17-Sep-84,Right_Hand,Right-arm medium-fast,India
+VS Malik,9-May-83,Right_Hand,Right-arm medium,India
+VS Yeligati,23-Apr-85,Right_Hand,Right-arm offbreak,India
+VVS Laxman,1-Nov-74,Right_Hand,Right-arm offbreak,India
+VY Mahesh,21-Dec-87,Right_Hand,Right-arm medium-fast,India
+W Jaffer,16-Feb-78,Right_Hand,Right-arm offbreak,India
+WA Mota,20-Sep-81,Right_Hand,Right-arm medium,India
+Washington Sundar,,Left_Hand,Right-arm offbreak,
+WD Parnell,30-Jul-89,Left_Hand,Left-arm medium-fast,South Africa
+WP Saha,24-Oct-84,Right_Hand,NULL,India
+WPUJC Vaas,27-Jan-74,Left_Hand,Left-arm fast-medium,Sri Lanka
+X Thalaivan Sargunam,15-May-85,Right_Hand,Right-arm offbreak,India
+Y Gnaneswara Rao,25-Aug-84,Right_Hand,Right-arm medium,India
+Y Nagar,6-Jan-90,Right_Hand,Right-arm offbreak,India
+Y Venugopal Rao,26-Feb-82,Right_Hand,Right-arm offbreak,India
+YA Abdulla,17-Jan-83,Left_Hand,Left-arm fast-medium,India
+Yashpal Singh,27-Nov-81,Right_Hand,Right-arm medium,India
+YK Pathan,17-Nov-82,Right_Hand,Right-arm offbreak,India
+Younis Khan,29-Nov-77,Right_Hand,Right-arm medium,Pakistan
+YS Chahal,23-Jul-90,Right_Hand,Legbreak googly,India
+Yuvraj Singh,12-Dec-81,Left_Hand,Slow left-arm orthodox,India
+YV Takawale,5-Nov-84,Right_Hand,NULL,India
+Z Khan,7-Oct-78,Right_Hand,Left-arm fast-medium,India
